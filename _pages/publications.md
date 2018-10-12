@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.orcid %}
-  Publication<u><a href="{{author.orcid}}">ORCID profile</a>.</u>
+  Publications <u><a href="{{author.orcid}}">ORCID profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
