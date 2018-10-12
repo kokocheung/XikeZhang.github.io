@@ -82,7 +82,7 @@ author:
   bio              : "Ph.D. Student at Huazhong University of Science and Technology"
   location         : "Wuhan, Hubei"
   employer         : 
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : #"http://scholar.google.com/this-is-a-test"
   email            : "koko@hust.edu.cn"
   uri              : 
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          : #"testaccount-this-is-fake"
   vine             :
   weibo            :
   xing             :
