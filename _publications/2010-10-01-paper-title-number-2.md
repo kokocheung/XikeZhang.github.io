@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "My Paper Title Number 2"
 collection: publications
 permalink: /publications/2010-10-01-paper-title-number-2
 venue: "Journal 1"
