@@ -5,6 +5,10 @@ permalink: /contact/
 author_profile: true
 ---
 
+<p>
+  <img src="https://kokocheung.github.io/mysite/files/wechart.jpg?raw=true" alt="WeChat" />
+ </p>
+
 Phone: +86-13677344277 <br>
 Email: koko@hust.edu.cn<br>
 
