@@ -9,7 +9,7 @@ First class scholarship, Hust, 2017<br>
 First class scholarship, Hust, 2016<br>
 First class scholarship, Hust, 2015<br>
 The Outstanding Membership of China Association for Promoting Democracy(Yiyang, Hunan), 2015<br>
-The Excellent student of Hunan online social institute, 2015
+The Excellent Students of Hunan Online Social Institute, 2015
 
 ## Certifications
 Data Analyst, High Level, Certificated by Guiding Center Vocational Ability Identification of Ministry of Industry and Information Technology of the People's Republic of China, 2016<br>
