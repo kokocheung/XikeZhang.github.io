@@ -11,7 +11,7 @@ author_profile: true
 [EN] Virtual Simulation Teaching Experiment Resource Project of Hunan City University, Virtual reality simulation teaching system for surveying and mapping instrument (<b>PI</b>).<br>
 [中文] 湖南城市学院虚拟仿真实验教学资源项目：测绘仪器认知虚拟仿真教学系统, (<b>主持</b>)
 
-[EN] Teaching&Reforming Project of Hunan City University, Application of Task-Driven Teaching Method in WebGIS Teaching, (<b>PI</b>)
+[EN] Teaching&Reforming Project of Hunan City University, Application of Task-Driven Teaching Method in WebGIS Teaching, (<b>PI</b>)<br>
 [中文] 湖南城市学院教学教改项目：任务驱动教学法在GIS专业WebGIS教学中的应用, (<b>主持</b>)
 
 [EN] National Natural Science Foundation of China, Grant No.41672263, Influence of Hydropower Project on Fault Activity Behavior and Quantitative Study on Reservoir-Induced Earthquake Effect (Co-PI).<br>
