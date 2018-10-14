@@ -13,7 +13,7 @@ Education
 ======
 <!--* B.S. in Testing Science, Testing University, 2012-->
 <!--* M.S. in Testonomy, Testing University, 2014-->
-* Ph.D in Hydraulic Engineering (Research Field: Hydraulic Informatization),, Huazhong University of Science and Techonolog, 2019
+* Ph.D in Hydraulic Engineering (Research Field: Hydraulic Informatization), Huazhong University of Science and Techonolog, 2019
 
 Work experience
 ======
