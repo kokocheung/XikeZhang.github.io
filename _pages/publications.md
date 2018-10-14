@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications [(ResearcherID)](https://orcid.org/0000-0003-1777-0530)"
 permalink: /publications/
 author_profile: true
 ---
