@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me ( 张习科 )"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
