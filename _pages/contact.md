@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p>
-  <img src="https://kokocheung.github.io/mysite/files/wechart.jpg?raw=true" alt="WeChat" />
+  <img src="https://kokocheung.github.io/mysite/files/wechart.jpg?raw=true" alt="WeChat" style="width:100px;" />
  </p>
 
 Phone: +86-13677344277 <br>
