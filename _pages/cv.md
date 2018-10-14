@@ -51,7 +51,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Courses
 ======
 * Year 2014
    * WebGIS
