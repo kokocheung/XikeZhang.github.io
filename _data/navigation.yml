@@ -2,7 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Funds"
+    url: /funds/
+    
   - title: "Talks"
     url: /talks/    
 
