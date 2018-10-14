@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
->{% if author.orcid %}
+<!--{% if author.orcid %}
   Publicationss <u><a href="{{author.orcid}}">ORCID profile</a>.</u>
 {% endif %}
 
@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
->
+-->
 ## Deep Learning in Meteorology & Hydrology
 <b>[A Novel Hybrid Data-Driven Model for Daily Land Surface Temperature Forecasting Using Long Short-Term Memory Neural Network Based on Ensemble Empirical Mode Decomposition](https://kokocheung.github.io/mysite/publications/ijerph-15-01032-v2)</b><br>
 <b>Xike Zhang</b>, Qiuwen Zhang, Gui Zhang, Zhiping Nie, Zifan Gui and Huafei Que. <i>Int. J. Environ. Res. Public Health</i>. 2018, 15, 1032.
