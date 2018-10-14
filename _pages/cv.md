@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in Testing Science, Testing University, 2012
-* M.S. in Testonomy, Testing University, 2014
-* Ph.D in Testology, Testing University, 2017 (expected)
+<!--* B.S. in Testing Science, Testing University, 2012-->
+<!--* M.S. in Testonomy, Testing University, 2014-->
+* Ph.D in Hydraulic Engineering (Research Field: Hydraulic Informatization),, Huazhong University of Science and Techonolog, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
-
-* Fall 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
+* 2013.6 to present, Hunan City University, GIS tearcher
+* 2011.07 to 2012.11, Guangzhou Digital Cities Institute Co., Ltd. (Software devoloping nngineer, trainee)
+* 2008.09 to 2009.07, Zhuzhou Huatong Science and Technology Co., Ltd. (Software devoloping nngineer)
+* 2008.04 to 2008.09 Motorola-Micro-Cisco(Beijing) Mobile Communication Technology Co., Ltd. (Software devoloping nngineer)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
++ GIS&RS data Processing&Modeling Software
+   + ArcGIS Desktop/Engine/Server
+   + ArcGIS API for Silverlight/Flex/Android/iOS/JavaScript
+   + ENVI
++ Programming Skills and Languages
+   + Linux C++, Matlab, Python, IDL, C#, Java
++ Databases
+   + MSSQL, MySQL, Oracle
++ Deep Learning
+   + RNN, LSTM, CNN, Tensorflow
++ Big Data Platform
+   + Hadoop, Spark
+OS
+   + Windows, Linux, macOS
 
 Publications
 ======
@@ -50,10 +53,22 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <!--<ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
+* Year 2014
+   * WebGIS
+HTML Foundation
+* Year 2015
+   * Java Programming
+   * Mobile GIS
+* Year 2016
+   * Java Programming
+   * Mobile GIS
+* Year 2017
+   * ArcGIS and EVNI Software Application
   
-Service and leadership
+<!--Service and leadership
 ======
 * Currently signed in to 49 different slack teams
+-->
