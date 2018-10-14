@@ -8,6 +8,12 @@ author_profile: true
 [EN] Bureau of Science and Technology (Yiyang, Hunan), Grant No.51, Monitoring Land Cover Dynamic Changes in Dongting Lake Region Using Remote Sensing (<b>PI</b>).<br>
 [中文] 益阳市科技局: 洞庭湖区土地动态变化遥感监测, (编号：益科字[51], <b>主持</b>)。
 
+[EN] Virtual Simulation Teaching Experiment Resource Project of Hunan City University, Virtual reality simulation teaching system for surveying and mapping instrument (<b>PI</b>).<br>
+[中文] 湖南城市学院虚拟仿真实验教学资源项目：测绘仪器认知虚拟仿真教学系统, (<b>主持</b>)
+
+[EN] Teaching&Reforming Project of Hunan City University, Application of Task-Driven Teaching Method in WebGIS Teaching, (<b>PI</b>)
+[中文] 湖南城市学院教学教改项目：任务驱动教学法在GIS专业WebGIS教学中的应用, (<b>主持</b>)
+
 [EN] National Natural Science Foundation of China, Grant No.41672263, Influence of Hydropower Project on Fault Activity Behavior and Quantitative Study on Reservoir-Induced Earthquake Effect (Co-PI).<br>
 [中文] 国家自然科学基金项目：水电工程对断层活动习性的影响及其水库诱发地震效应定量研究, (编号：41672263, 参与)。
 
