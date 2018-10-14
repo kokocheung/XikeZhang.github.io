@@ -12,6 +12,9 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "A&Cs"
+    url: /aandcs/
+
   - title: "Teaching"
     url: /teaching/   
     
