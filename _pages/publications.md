@@ -1,11 +1,11 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
 ## Deep Learning in Meteorology & Hydrology
+
 <b>[A Novel Hybrid Data-Driven Model for Daily Land Surface Temperature Forecasting Using Long Short-Term Memory Neural Network Based on Ensemble Empirical Mode Decomposition](https://kokocheung.github.io/mysite/publications/ijerph-15-01032-v2)</b><br>
 <b>Xike Zhang</b>, Qiuwen Zhang, Gui Zhang, Zhiping Nie, Zifan Gui and Huafei Que. <i>Int. J. Environ. Res. Public Health</i>. 2018, 15, 1032.
 
@@ -16,6 +16,7 @@ author_profile: true
 Qiuwen Zhang, Fei Yan, Ji Shen, Song Ye, Bo Ren and <b>Xike Zhang</b>. <i>Desalination and Water Treatment</i>. 2018, 10, 416.
 
 ## Remote Sensing
+
 <b>[Surface Water Are Variations Monitoring and Flood Hazards Using Landsat Image Data in Dongting Lake from 1988 to 2016](https://kokocheung.github.io/mysite/publications/FEB_18_00628)</b><br>
 <b>Xike Zhang</b>, Qiuwen Zhang, Gui Zhang Zifan Gui and Zhiping Nie. <i>Fresenius Environmental Bulletin</i>. 2018, 27(9), 6168-6178.
 
