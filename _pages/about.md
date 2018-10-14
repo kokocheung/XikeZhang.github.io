@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://kokocheung.github.io/mysite/files/mypic.jpg?raw=true" alt="My Pic" style="width: 450px;"/> 
+  <img src="https://xikezhang.github.io/files/mypic.jpg?raw=true" alt="My Pic" style="width: 450px;"/> 
 </p>
 
 * I am a Ph.D student in the [School of Hydropower and Information Engineering](http://hae.hust.edu.cn/) at [Huazhong University of Science and Technolog](https://www.hust.edu.cn/). <!--[[Curriculum Vitae]](http://lantaoyu.com/files/lantaoyu_cv.pdf)-->
