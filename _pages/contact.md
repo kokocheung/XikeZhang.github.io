@@ -4,7 +4,11 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+
+Phone: +86-13677344277 <br>
+Email: koko@hust.edu.cn<br>
+
+Office: Room 311 Dynamic Simulation Building <br>
+
+Mail: Huazhong University of Science and Technology, School of Hydropower and Information Engineering, No. 1037 Luoyu Road, Hongshan District, Wuhan, Hubei Province, R.P. China 430074
 
