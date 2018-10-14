@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications[(ResearcherID)](https://orcid.org/0000-0003-1777-0530)"
 permalink: /publications/
 author_profile: true
 ---
