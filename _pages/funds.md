@@ -14,14 +14,21 @@ author_profile: true
 [EN] Key Program of the Natural Science Foundation of Hubei Province in China (Wuhan, Hubei), Grant No.2015CFA134, Study on Disaster Change Mechanisms of Reservoir-Induced Earthquake and Methods of Disaster Prevention and Controlling (Co-PI).<br>
 [中文] 湖北省自然科学基金重点项目：水库诱发地震灾变机理及灾害防控方法研究, (编号：2015CFA134, 参与)
 
+[EN] Ministry of Science and Technology and Ministry of Environmental Protection Technology Project, Grant No.CKSK2015412/KJ, Monitoring and Analysis of Greenhouse Gas Source and Sink in the Three Gorges Reservoir (Co-PI). <br>
+[中文] 科技部与环境保护部技术攻关项目：三峡水库温室气体源汇监测与分析研究（编号：CKSK2015412/KJ，参与）
+
 [EN] Key Program of the Science and Technology Plan of Hunan Province in China (Changsha, Hunan), Grant No.2016SK2088, Study on Satellite Remote Sensing Data Interpretation Technology in Natural Disaster Monitoring (Co-PI).<br>
-[中文]
+[中文] 湖南省科技计划重点项目：自然灾害卫星遥感监测数据解释技术研究（编号：2016SK2088，参与）
 
 [EN] Key Program of the Science and Technology Plan of Hunan Province in China (Changsha, Hunan), Grant No.2016SK2088, Study on Key Technologies of Flood Disaster Dynamic Monitoring and Warning Using Remote Sensing (Co-PI).<br>
-[中文]
+[中文] 湖南省科技计划重点项目：洪灾遥感动态监测与预警关键技术研究（编号：2017SK22271，参与）
+
+[EN] Key Construction Project of Guangzhou Forestry and Landscape Bureau, Grant No. GZIT2010-ZB0533, Guangzhou Digital Forestry and Big&Famous Tree Protection System Construction Project (Co-PI).<br>
+[中文] 广州市林业和园林局重点建设项目：广州数字林业及大树名木保护系统建设项目（编号：GZIT2010-ZB0533，参与）
+
 
 [EN] Key Program of the Science and Technology Plan of Hunan Province in China (Changsha, Hunan), Grant No.2010NK2004, Study on Dynamic Information Query and Matching Technology in Response to Farmers' Demands and Its Implementation (Co-PI).<br>
-[中文]
+[中文] 湖南省科技计划重点项目：响应农民诉求的动态信息快速查询与匹配技术研究与实现（编号：2010NK2004，参与）
 
 [EN] Key Program of the Science and Technology Plan of Hunan Province in China (Changsha, Hunan), Grant No.2010CK2009, Key Technologies of Mining and Merging in Related Information of Scientific and Technological Achievements Transformation and Its Application (Co-PI).<br>
-[中文]
+[中文] 湖南省科技计划重点项目：科技成果转化中相关信息挖掘与融合关键技术研究与应用（编号：2010NK2004，参与）
