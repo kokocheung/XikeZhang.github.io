@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+<p align="center">
+  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 
-Lorem ipsum.
+* I am a Ph.D student in the [School of Hydropower and Information Engineering](http://hae.hust.edu.cn/) at [Huazhong University of Science and Technolog](https://www.hust.edu.cn/). <!--[[Curriculum Vitae]](http://lantaoyu.com/files/lantaoyu_cv.pdf)-->
+
+* My research interests lie in GIS, big data, intelligent computing the general area of machine learning, particularly in deep representation learning and reinforcement learning, as well as their applications in remote sensing, meteorology & hydrology.
